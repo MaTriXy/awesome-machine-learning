@@ -31,6 +31,7 @@ Further resources:
     - [Computer Vision](#cpp-cv)
     - [General-Purpose Machine Learning](#cpp-general-purpose)
     - [Natural Language Processing](#cpp-nlp)
+    - [Speech Recognition](#speech-recognition-1)
     - [Sequence Analysis](#cpp-sequence)
     - [Gesture Recognition](#cpp-gestures)
 - [Common Lisp](#common-lisp)
@@ -292,6 +293,7 @@ Further resources:
 #### General-Purpose Machine Learning
 
 * [Disco](https://github.com/discoproject/disco/) - Map Reduce in Erlang
+* [Yanni](https://bitbucket.org/nato/yanni/overview) - ANN neural networks using Erlangs leightweight processes
 
 <a name="go"></a>
 ## Go
@@ -428,7 +430,6 @@ Further resources:
 * [natural](https://github.com/NaturalNode/natural) - General natural language facilities for node
 * [Knwl.js](https://github.com/loadfive/Knwl.js) - A Natural Language Processor in JS
 * [Retext](https://github.com/wooorm/retext) - Extensible system for analyzing and manipulating natural language
-* [TextProcessing](https://market.mashape.com/japerk/text-processing/support) - Sentiment analysis, stemming and lemmatization, part-of-speech tagging and chunking, phrase extraction and named entity recognition.
 * [NLP Compromise](https://github.com/nlp-compromise/compromise) - Natural Language processing in the browser
 
 
@@ -875,6 +876,7 @@ be
 * [topik](https://github.com/ContinuumIO/topik) - Topic modelling toolkit
 * [PyBrain](https://github.com/pybrain/pybrain) - Another Python Machine Learning Library.
 * [Brainstorm](https://github.com/IDSIA/brainstorm) - Fast, flexible and fun neural networks. This is the successor of PyBrain.
+* [Surprise](http://surpriselib.com) - A scikit for building and analyzing recommender systems.
 * [Crab](https://github.com/muricoca/crab) - A flexible, fast recommender engine.
 * [python-recsys](https://github.com/ocelma/python-recsys) - A Python library for implementing a Recommender System.
 * [thinking bayes](https://github.com/AllenDowney/ThinkBayes) - Book on Bayesian Analysis
@@ -921,6 +923,7 @@ be
 * [Xcessiv](https://github.com/reiinakano/xcessiv) - A web-based application for quick, scalable, and automated hyperparameter tuning and stacked ensembling
 * [PyTorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 * [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Implementations of Machine Learning models from scratch in Python with a focus on transparency. Aims to showcase the nuts and bolts of ML in an accessible way.
+* [Edward](http://edwardlib.org/) - A library for probabilistic modeling, inference, and criticism. Built on top of TensorFlow.
 
 <a name="python-data-analysis"></a>
 #### Data Analysis / Data Visualization
