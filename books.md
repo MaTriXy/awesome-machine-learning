@@ -5,12 +5,13 @@ The following is a list of free, open source books on machine learning, statisti
 * [Real World Machine Learning](https://www.manning.com/books/real-world-machine-learning) [Free Chapters]
 * [An Introduction To Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) - Book + R Code
 * [Elements of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/) - Book
+* [Computer Age Statistical Inference (CASI)](https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf) ([Permalink as of October 2017](https://perma.cc/J8JG-ZVFW)) - Book
 * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) - Book + IPython Notebooks
 * [Think Bayes](http://greenteapress.com/wp/think-bayes/) - Book + Python Code
 * [Information Theory, Inference, and Learning Algorithms](http://www.inference.phy.cam.ac.uk/mackay/itila/book.html)
 * [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/chapters/)
 * [Data Intensive Text Processing w/ MapReduce](http://lintool.github.io/MapReduceAlgorithms/)
-* [Reinforcement Learning: - An Introduction](http://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html)
+* [Reinforcement Learning: - An Introduction](http://incompleteideas.net/book/the-book-2nd.html) ([Permalink to Nov 2017 Draft](https://perma.cc/83ER-64M3))
 * [Mining Massive Datasets](http://infolab.stanford.edu/~ullman/mmds/book.pdf)
 * [A First Encounter with Machine Learning](https://www.ics.uci.edu/~welling/teaching/273ASpring10/IntroMLBook.pdf)
 * [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
@@ -37,8 +38,10 @@ The following is a list of free, open source books on machine learning, statisti
 ## Deep-Learning
 
 * [Deep Learning - An MIT Press book](http://www.deeplearningbook.org/)
-* [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python) Early access book
+* [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
 * [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning) Early access book
+* [Deep Learning for Search](https://www.manning.com/books/deep-learning-for-search) Early access book
+* [Deep Learning and the Game of Go](https://www.manning.com/books/deep-learning-and-the-game-of-go) Early access book
 
 ## Natural Language Processing
 
@@ -69,7 +72,7 @@ The following is a list of free, open source books on machine learning, statisti
 * [Probability & Statistics Cookbook](http://statistics.zone/)
 * [Advanced Data Analysis From An Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf)
 * [Introduction to Probability](http://athenasc.com/probbook.html) -  Book and course by MIT
-* [The Elements of Statistical Learning: Data Mining, Inference, and Prediction.](http://statweb.stanford.edu/~tibs/ElemStatLearn/) -Book
+* [The Elements of Statistical Learning: Data Mining, Inference, and Prediction.](http://statweb.stanford.edu/~tibs/ElemStatLearn/) - Book
 * [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/) - Book
 * [Learning Statistics Using R](http://health.adelaide.edu.au/psychology/ccs/teaching/lsr/)
 * [Introduction to Probability and Statistics Using R](https://cran.r-project.org/web/packages/IPSUR/vignettes/IPSUR.pdf) - Book
