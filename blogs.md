@@ -2,6 +2,7 @@ Blogs/Podcasts
 ===============
 
 [Hacker News for Data Science](http://www.datatau.com/news)
+[LightTag's Labeled Data Blog](https://lighttag.io/blog)
 
 Podcasts
 --------
@@ -29,6 +30,8 @@ Podcasts
 Data Science / Statistics
 -------------------------
 
+https://blog.dominodatalab.com
+
 https://ahmedbesbes.com/
 
 https://jeremykun.com/
@@ -44,8 +47,6 @@ http://simplystatistics.org/
 http://www.evanmiller.org/
 
 http://jakevdp.github.io/
-
-http://blog.yhat.com/
 
 http://wesmckinney.com
 
@@ -103,12 +104,16 @@ https://mubaris.com
 
 https://distill.pub
 
+http://blog.shakirm.com/
+
+http://www.cs.ox.ac.uk/people/yarin.gal/website/blog.html
+
 Math
 ----
 
 http://www.sumsar.net/
 
-http://allendowney.blogspot.ca/
+https://www.allendowney.com/blog/
 
 https://healthyalgorithms.com/
 

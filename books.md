@@ -34,6 +34,11 @@ The following is a list of free, open source books on machine learning, statisti
 * [Data Mining - Practical Machine Learning Tools and Techniques](http://cs.du.edu/~mitchell/mario_books/Data_Mining:_Practical_Machine_Learning_Tools_and_Techniques_-_2e_-_Witten_&_Frank.pdf) Book
 * [Machine Learning with TensorFlow](https://www.manning.com/books/machine-learning-with-tensorflow) Early access book
 * [Reactive Machine Learning Systems](https://www.manning.com/books/reactive-machine-learning-systems) Early access book
+* [Hands‑On Machine Learning with Scikit‑Learn and TensorFlow](http://index-of.es/Varios-2/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20and%20Tensorflow.pdf) - Aurélien Géron
+* [R for Data Science: Import, Tidy, Transform, Visualize, and Model Data](http://r4ds.had.co.nz/) - Wickham and Grolemund. Great as introduction on how to use R. 
+* [Advanced R](http://adv-r.had.co.nz/) - Hadley Wickham. More advanced usage of R for programming.
+* [Graph-Powered Machine Learning](https://www.manning.com/books/graph-powered-machine-learning) - Alessandro Negro. Combining graph theory and models to improve machine learning projects
+
 
 ## Deep-Learning
 
@@ -42,6 +47,8 @@ The following is a list of free, open source books on machine learning, statisti
 * [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning) Early access book
 * [Deep Learning for Search](https://www.manning.com/books/deep-learning-for-search) Early access book
 * [Deep Learning and the Game of Go](https://www.manning.com/books/deep-learning-and-the-game-of-go) Early access book
+* [Machine Learning for Business](https://www.manning.com/books/machine-learning-for-business) Early access book
+* [Deep Learning for Search](https://www.manning.com/books/deep-learning-for-search) Early access book
 
 ## Natural Language Processing
 
@@ -68,22 +75,25 @@ The following is a list of free, open source books on machine learning, statisti
 * [Introduction to statistical thought](http://people.math.umass.edu/~lavine/Book/book.pdf)
 * [Basic Probability Theory](http://www.math.uiuc.edu/~r-ash/BPT/BPT.pdf)
 * [Introduction to probability](https://math.dartmouth.edu/~prob/prob/prob.pdf) - By Dartmouth College
-* [Principle of Uncertainty](http://uncertainty.stat.cmu.edu/wp-content/uploads/2011/05/principles-of-uncertainty.pdf)
+* [Principle of Uncertainty](http://www.stat.cmu.edu/~kadane/principles.pdf)
 * [Probability & Statistics Cookbook](http://statistics.zone/)
-* [Advanced Data Analysis From An Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf)
+* [Advanced Data Analysis From An Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf) - Book
 * [Introduction to Probability](http://athenasc.com/probbook.html) -  Book and course by MIT
-* [The Elements of Statistical Learning: Data Mining, Inference, and Prediction.](http://statweb.stanford.edu/~tibs/ElemStatLearn/) - Book
+* [The Elements of Statistical Learning: Data Mining, Inference, and Prediction.](https://web.stanford.edu/~hastie/ElemStatLearn/) - Book
 * [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/) - Book
-* [Introduction to Probability and Statistics Using R](https://cran.r-project.org/web/packages/IPSUR/vignettes/IPSUR.pdf) - Book
+* [Introduction to Probability and Statistics Using R](http://ipsur.r-forge.r-project.org/book/download/IPSUR.pdf) - Book
 * [Advanced R Programming](http://adv-r.had.co.nz) - Book
 * [Practical Regression and Anova using R](http://cran.r-project.org/doc/contrib/Faraway-PRA.pdf) - Book
 * [R practicals](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf) - Book
 * [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) - Book
+* [Probability Theory: The Logic of Science](https://bayes.wustl.edu/etj/prob/book.pdf) - By Jaynes
 
 ## Linear Algebra
 
+* [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
+* [Linear Algebra by Shilov](https://cosmathclub.files.wordpress.com/2014/10/georgi-shilov-linear-algebra4.pdf)
 * [Linear Algebra Done Wrong](http://www.math.brown.edu/~treil/papers/LADW/LADW.html)
 * [Linear Algebra, Theory, and Applications](https://math.byu.edu/~klkuttle/Linearalgebra.pdf)
 * [Convex Optimization](http://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
-* [Applied Numerical Computing](http://www.seas.ucla.edu/~vandenbe/103/reader.pdf)
+* [Applied Numerical Computing](http://www.seas.ucla.edu/~vandenbe/ee133a.html)
 * [Applied Numerical Linear Algebra](http://egrcc.github.io/docs/math/applied-numerical-linear-algebra.pdf)
